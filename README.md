@@ -8,5 +8,3 @@ Unfortunately competition was till 11:59 pm and i submitted at 11:59:57 pm , so 
 <br>
 Top Public leaderboard score : 0.7213630325  and private leaderboard score : 0.6086175186
 
-
-But it was fun ! 
